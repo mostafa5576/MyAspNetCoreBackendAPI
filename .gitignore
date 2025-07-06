@@ -1,0 +1,59 @@
+# Compiled binaries and build artifacts
+[Bb]in/
+[Oo]bj/
+*.exe
+*.dll
+*.pdb
+*.vsix
+*.suo
+*.user
+*.resharper
+*.ReSharperReport.html
+
+# Visual Studio files
+.vs/
+*.sln.docstates
+*.vssscc
+*.vsscc
+*.SCC
+
+# NuGet packages
+packages/
+*.nupkg
+*.snupkg
+
+# Rider and other JetBrains IDEs
+.idea/
+
+# Database files
+*.mdf
+*.ldf
+*.sdf
+
+# Visual Studio Code
+.vscode/
+
+# Node.js modules
+node_modules/
+
+# npm install files
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Front-end build output
+build/
+dist/
+
+# Mac specific files
+.DS_Store
+
+# Local settings
+*.userprefs
+*.bak
+
+# Kestrel certificates
+*.pfx
+
+# Local application settings
+appsettings.Development.json
